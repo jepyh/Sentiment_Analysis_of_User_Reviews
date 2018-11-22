@@ -85,3 +85,5 @@ dish_look |	dish_recommendation |	others_overall_ experience |	others_willing_to
 To download the chinese word vectors trained with different representations, context features, and corpora.
 https://github.com/Embedding/Chinese-Word-Vectors
 In this project we use sgns.zhihu.bigram.
+
+### PS Cuz the dataset of AI challenger is too large to upload, three simplified datasets would be apply in this demo.
