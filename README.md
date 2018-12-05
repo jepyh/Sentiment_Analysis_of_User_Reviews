@@ -1,4 +1,5 @@
-# Fine_grained_Sentiment_Analysis_of_User_Reviews细粒度用户评论情感分析
+# Fine_grained_Sentiment_Analysis_of_User_Reviews
+# 细粒度用户评论情感分析
 AI challenger, Challenge multi-level and multi-dimensional fine-grained sentiment analysis and seek more accurate algorithms to predict users' fine-grained sentimental tendencies 
 挑战多层次、多维度的细粒度情感分析，寻求更精准的算法预测用户的细粒度情感倾向
 
