@@ -97,10 +97,12 @@ dish_look |	dish_recommendation |	others_overall_ experience |	others_willing_to
 菜品-外观 |	菜品-推荐程度 |	其他-本次消费感受 |	其他-再次消费的意愿
 
 ## Embedding
+## 词嵌入
 To download the chinese word vectors trained with different representations, context features, and corpora.
 https://github.com/Embedding/Chinese-Word-Vectors
 In this project we use sgns.zhihu.bigram.  
 [作者所用词向量：sgns.zhihu.bigram](https://github.com/Embedding/Chinese-Word-Vectors)   
 ### PS 
-Cuz the dataset of AI challenger is too large to upload, three simplified datasets are applied in this demo.
+### 注
+Cuz the dataset of AI challenger is too large to upload, three simplified datasets are applied in this demo.  
 在案例中给予了小样本测试集（比赛非完整数据集）。
